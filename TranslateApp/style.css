@@ -1,0 +1,13 @@
+textarea {
+    display: block;
+}
+
+button:hover {
+    background-color: greenyellow;
+}
+
+#output {
+    height: 100px;
+    width: 50%;
+    border: solid black 0.1px;
+}

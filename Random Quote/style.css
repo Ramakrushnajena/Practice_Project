@@ -1,0 +1,14 @@
+#quote-container {
+    height: 100px;
+    width: 100%;
+    border: 0.1px solid black;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button:hover {
+    background-color: #009dff;
+}
