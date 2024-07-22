@@ -1,0 +1,50 @@
+.child {
+    border: 2px solid black;
+}
+
+.p-container {
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 520px;
+    top: 10px;
+}
+
+.box2 {
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+    position: absolute;
+    left: 520px;
+    bottom: 190px;
+}
+
+.box3 {
+    background-color: aqua;
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    right: 520px;
+    left: 840px;
+    top: 10px;
+}
+
+.box4 {
+    background-color: green;
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    left: 830px;
+    bottom: 190px;
+}
